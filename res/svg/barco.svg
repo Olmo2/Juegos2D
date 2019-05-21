@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3032"
+   sodipodi:docname="frigate.svg"
+   height="170mm"
+   width="290mm"
+   version="1.1"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs3034">
+    <linearGradient
+       id="linearGradient3105"
+       y2="511.67001"
+       gradientUnits="userSpaceOnUse"
+       x2="623.71997"
+       y1="503.84"
+       x1="239.47"
+       inkscape:collect="always">
+      <stop
+         id="stop3101"
+         style="stop-color:#5a6567"
+         offset="0" />
+      <stop
+         id="stop3103"
+         style="stop-color:#5a6567;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3036"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-8"
+     pagecolor="#ffffff"
+     inkscape:window-height="838"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.45177387"
+     inkscape:window-x="-8"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer3"
+     inkscape:cx="896.53984"
+     inkscape:cy="407.2839"
+     inkscape:window-width="1600"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="mm" />
+  <g
+     id="layer3"
+     inkscape:label="Ebene"
+     inkscape:groupmode="layer"
+     transform="translate(0,-151.1811)">
+    <g
+       id="g3107"
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="C:\Documents and Settings\10119522\Desktop\fregatte.png"
+       transform="translate(19.185132,121.65588)">
+      <path
+         id="path3065"
+         d="m 215.99,427.54 0.3913,-2.3478 2.3478,-16.826 25.043,-3.1304 4.6955,-17.217 -20.739,-4.6955 v -5.4781 l 19.173,-1.9565 13.304,-61.433 -14.478,-5.4781 1.1739,-3.1304 122.08,7.8259 v 5.4781 l -42.26,0.78259 12.913,30.521 16.826,72.781 -136.95,13.304 z"
+         style="fill:#849494;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3067"
+         d="m 340.04,413.84 v -15.652 l 5.4781,-0.3913 5.4781,-73.563 -46.564,-8.6085 3.1304,-3.1304 94.693,6.2607 -0.78259,5.8694 -42.26,-0.39129 4.6955,63.781 18,-2.7391 -5.8694,27.391 z"
+         style="fill:#7d8d8d;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3063"
+         d="m 361.16,409.15 21.13,-43.042 15.652,-1.5652 4.3042,-13.304 -0.78259,-3.1304 -10.956,-3.5216 6.652,-9.7824 15.652,-75.52 -62.216,-4.6955 0.3913,-6.652 h 63.781 l 3.1304,-16.043 6.652,-3.1304 13.304,1.5652 1.9565,12.174 7.8259,-2.7826 1.9565,-6.2607 -2.7391,-14.869 -13.695,-3.913 0.39129,-3.5216 18.782,1.5652 0.39129,-5.4781 8.6085,-0.39129 0.78259,-9.7824 -7.8259,-3.1304 v -1.1739 l 2.7391,-2.3478 8.9998,0.3913 -0.78259,-8.9998 -3.1304,-1.1739 v -5.4781 l 3.913,-0.78259 0.3913,-6.2607 0.78258,-49.694 1.9565,1.5652 0.39129,54.781 h 3.5216 l 0.3913,6.652 -0.78259,5.4781 -2.3478,1.5652 v 3.1304 l 10.174,1.1739 v 2.3478 l -6.652,0.78259 2.7391,14.869 1.9565,1.5652 22.695,-1.1739 3.5216,2.7391 0.39129,3.913 -10.956,2.7391 1.9565,3.5216 -3.5216,5.8694 4.3042,10.565 1.5652,0.78259 27.391,3.5216 17.608,70.042 -5.0868,19.565 65.346,4.3042 10.174,1.9565 7.0433,6.652 -4.3042,0.78259 -5.4781,16.826 20.739,37.564 100.56,2.7391 24.26,34.825 h 12.521 l 4.3042,12.521 -318.12,10.174 z"
+         style="fill:#809090;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3061"
+         d="m 178.04,425.58 5.8694,-17.608 6.652,-0.39129 2.3478,-10.565 h 5.8694 l 2.3478,9.7824 7.8259,0.39129 4.6955,18 z"
+         style="fill:#a2b5b9;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3053"
+         d="m 969.63,443.58 -159.65,1.5652 -331.04,9.3911 -18.782,-0.78259 -7.0433,-10.956 v -11.739 l -12.521,-32.869 -144.78,15.652 -3.1304,10.956 -41.477,3.1304 -10.174,-7.8259 -92.346,7.8259 3.1304,19.565 -6.2607,39.912 H 87.644 l 9.3911,37.564 17.217,3.913 491.47,41.477 251.21,13.304 13.304,-21.912 33.651,-43.042 45.39,-50.086 z"
+         style="fill:#454a4d;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3055"
+         d="m 151.04,448.28 300.51,-19.565 1.5652,12.521 7.0433,12.521 17.217,0.78259 340.43,-9.3911 -147.13,10.174 -76.694,7.0433 -61.825,9.3911 -59.477,12.521 -35.217,3.913 -33.651,3.9129 -112.69,-1.5652 -145.56,-3.1304 z"
+         style="fill:none;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3057"
+         d="m 235.56,444.36 -3.1304,44.608 39.912,10e-6 8.6085,-39.129 -3.9129,-7.8259 z"
+         sodipodi:nodetypes="cccccc"
+         style="fill:#808080;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3059"
+         d="m 312.25,438.88 55.564,-3.913 3.1304,5.4781 -9.3911,46.173 -3.1304,5.4781 -46.173,-1.5652 -2.3478,-6.2607 z"
+         style="fill:#808080;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3069"
+         d="m 690.64,394.67 37.956,-1.1739 12.913,5.4781 16.826,41.477 h -70.433 z"
+         style="fill:#575d5e;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3071"
+         d="m 728.98,404.84 68.085,-2.7391 1.1739,3.5217 -1.5652,1.9565 -47.738,3.1304 -3.1304,1.9565 -4.6955,-1.1739 -9.3911,1.5652 -4.3042,-4.6955 z"
+         style="fill:#222222;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3073"
+         d="m 408.12,346.93 25.825,-5.4781 39.129,-0.78259 129.52,7.4346 12.521,3.1304 -5.0868,13.695 -11.348,-2.7391 -127.17,-7.4346 -29.347,-0.39129 -29.738,5.4781 z"
+         style="fill:#23282b;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3075"
+         d="m 439.42,356.71 1.9565,41.477 27.391,-41.869 z"
+         style="fill:#bbd0d3;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3077"
+         d="m 451.16,239.72 10.565,-0.78259 -7.0433,70.433 h -9.7824 z"
+         style="fill:#99adac;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3079"
+         d="m 498.51,452.58 1.5652,-8.9998 5.8694,-41.086 36.782,-3.9129 8.1e-4,10.147 39.52,-2.3207 36.39,-1.9565 17.608,-1.1739 10.565,-0.78259 3.1304,47.738 z"
+         sodipodi:nodetypes="ccccccccccc"
+         style="fill:none;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3081"
+         d="m 275.47,317.97 h 1.9565 11.739 l -11.348,32.086 z"
+         style="fill:#a2b5b9;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3083"
+         d="m 477.38,273.76 -1.1739,-16.434 36.782,2.3478 1.5652,16.826 z"
+         style="fill:#b9b9b9;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3085"
+         d="m 478.94,285.89 36.782,2.3478 0.39129,7.0433 -37.564,-3.1304 z"
+         sodipodi:nodetypes="ccccc"
+         style="fill:#b3b3b3;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3087"
+         d="m 424.16,262.8 19.956,-5.0868 -2.7391,16.434 -18.782,4.3042 z"
+         style="fill:#a0a0a0;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3089"
+         d="m 420.64,291.37 19.565,-5.4781 -1.1739,8.2172 -19.956,4.3042 z"
+         style="fill:#9a9a9a;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3091"
+         d="m 87.433,487.88 5.5337,20.475 366.33,21.582 128.94,-3.8736 -8.3006,-61.978 -59.764,9.9607 -46.483,9.4074 -53.677,6.6405 -16.048,1.6601 z"
+         style="fill:url(#linearGradient3105)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3097"
+         d="m 742.63,510.29 9.684,-0.27669 9.684,25.732 22.135,0.55337 2.7669,9.1307 0.55337,3.5969 -28.222,-1.1068 z"
+         style="fill:#636b6d"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3095"
+         d="m 750.93,510.29 4.1503,-0.83006 10.791,11.344 h 1.9368 v -2.7669 l 1.3834,-0.27669 0.83006,2.4902 3.0436,-10.237 11.344,27.392 -2.2135,0.27669 -9.9607,-2.4902 -14.111,1.3834 0.83006,-3.8736 z"
+         style="fill:#010101;stroke:#000000;stroke-width:1px"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>German Bundeswehr frigate</dc:title>
+        <dc:date>2012-04-25T06:51:00</dc:date>
+        <dc:description>simple drawing of a modern German navy frigate</dc:description>
+        <dc:source>https://openclipart.org/detail/169678/german-bundeswehr-frigate-by-jportugall</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>JPortugall</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>Bundeswehr</rdf:li>
+            <rdf:li>Fregatte</rdf:li>
+            <rdf:li>Marine</rdf:li>
+            <rdf:li>Navy</rdf:li>
+            <rdf:li>frigate</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
